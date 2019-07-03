@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imagen Servidor</string>
+    <string name="bajar_imagen">Bajar imagen</string>
+    <string name="guardar_imagen">Guardar Imagen</string>
+</resources>
